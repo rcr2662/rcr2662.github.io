@@ -6,6 +6,8 @@ body{
 
 #name{
     color: red;
+    border: 5px;
+    padding:50px;
 }
 
 .link{
