@@ -1,6 +1,7 @@
 body{
-    background-image: url('https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/4JxrxX_cBt51awnIjfrnHcd1OX0=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6TXBUTS4LBBZRHUQJQZP6RGGAM.jpg');
+    background-image: url('https://thumbnails.texastribune.org/N43NxufgNceZ1bfGmeqFstHU7TU=/1200x804/smart/filters:quality(95)/https://static.texastribune.org/media/images/ut_longhorn_logo2_.png');
     background-repeat: no-repeat; 
+    background-size: cover;
 }
 
 #name{
